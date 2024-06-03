@@ -1,0 +1,7 @@
+C:\Users\cslab\Desktop\Prog2\CSharp\RealCalcWithFunctions\RealCalcWithFunctions\bin\Debug\RealCalcWithFunctions.exe.config
+C:\Users\cslab\Desktop\Prog2\CSharp\RealCalcWithFunctions\RealCalcWithFunctions\bin\Debug\RealCalcWithFunctions.exe
+C:\Users\cslab\Desktop\Prog2\CSharp\RealCalcWithFunctions\RealCalcWithFunctions\bin\Debug\RealCalcWithFunctions.pdb
+C:\Users\cslab\Desktop\Prog2\CSharp\RealCalcWithFunctions\RealCalcWithFunctions\obj\Debug\RealCalcWithFunctions.csproj.AssemblyReference.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\RealCalcWithFunctions\RealCalcWithFunctions\obj\Debug\RealCalcWithFunctions.csproj.CoreCompileInputs.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\RealCalcWithFunctions\RealCalcWithFunctions\obj\Debug\RealCalcWithFunctions.exe
+C:\Users\cslab\Desktop\Prog2\CSharp\RealCalcWithFunctions\RealCalcWithFunctions\obj\Debug\RealCalcWithFunctions.pdb

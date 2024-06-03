@@ -1,0 +1,17 @@
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.Form1.resources
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.csproj.GenerateResource.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.AssemblyInfoInputs.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.AssemblyInfo.cs
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.csproj.CoreCompileInputs.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.sourcelink.json
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\bin\Debug\net8.0-windows\Lang366b.exe
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\bin\Debug\net8.0-windows\Lang366b.deps.json
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\bin\Debug\net8.0-windows\Lang366b.runtimeconfig.json
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\bin\Debug\net8.0-windows\Lang366b.dll
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\bin\Debug\net8.0-windows\Lang366b.pdb
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.dll
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\refint\Lang366b.dll
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.pdb
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\Lang366b.genruntimeconfig.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang366b\Lang366b\obj\Debug\net8.0-windows\ref\Lang366b.dll

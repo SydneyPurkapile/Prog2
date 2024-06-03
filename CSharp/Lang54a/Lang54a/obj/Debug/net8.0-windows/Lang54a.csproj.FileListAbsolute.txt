@@ -1,0 +1,17 @@
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\bin\Debug\net8.0-windows\Lang54a.exe
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\bin\Debug\net8.0-windows\Lang54a.deps.json
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\bin\Debug\net8.0-windows\Lang54a.runtimeconfig.json
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\bin\Debug\net8.0-windows\Lang54a.dll
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\bin\Debug\net8.0-windows\Lang54a.pdb
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.Form1.resources
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.csproj.GenerateResource.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.AssemblyInfoInputs.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.AssemblyInfo.cs
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.csproj.CoreCompileInputs.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.sourcelink.json
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.dll
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\refint\Lang54a.dll
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.pdb
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\Lang54a.genruntimeconfig.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\Lang54a\Lang54a\obj\Debug\net8.0-windows\ref\Lang54a.dll

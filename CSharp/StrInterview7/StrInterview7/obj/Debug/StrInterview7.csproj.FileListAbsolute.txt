@@ -1,0 +1,7 @@
+C:\Users\cslab\Desktop\Prog2\CSharp\StrInterview7\StrInterview7\bin\Debug\StrInterview7.exe.config
+C:\Users\cslab\Desktop\Prog2\CSharp\StrInterview7\StrInterview7\bin\Debug\StrInterview7.exe
+C:\Users\cslab\Desktop\Prog2\CSharp\StrInterview7\StrInterview7\bin\Debug\StrInterview7.pdb
+C:\Users\cslab\Desktop\Prog2\CSharp\StrInterview7\StrInterview7\obj\Debug\StrInterview7.csproj.AssemblyReference.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\StrInterview7\StrInterview7\obj\Debug\StrInterview7.csproj.CoreCompileInputs.cache
+C:\Users\cslab\Desktop\Prog2\CSharp\StrInterview7\StrInterview7\obj\Debug\StrInterview7.exe
+C:\Users\cslab\Desktop\Prog2\CSharp\StrInterview7\StrInterview7\obj\Debug\StrInterview7.pdb
